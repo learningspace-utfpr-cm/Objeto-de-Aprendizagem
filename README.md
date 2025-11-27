@@ -1,6 +1,6 @@
 #  Objeto de Aprendizagem: Diagnóstico de Usabilidade Web
 
-Este repositório contém um Objeto de Aprendizagem (OA) projetado para ensinar os princípios de **Usabilidade e Acessibilidade em Interfaces Web** através de uma abordagem prática de **diagnóstico de erros**. O projeto foi criado para a disciplina de Objetos de Aprendizagem.
+Este repositório contém um Objeto de Aprendizagem (OA) projetado para ensinar os princípios de **Usabilidade e Acessibilidade em Interfaces Web** através de uma abordagem prática de **diagnóstico de erros**.
 
 ---
 
