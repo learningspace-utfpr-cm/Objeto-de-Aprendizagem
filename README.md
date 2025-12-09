@@ -26,3 +26,7 @@ O OA utiliza uma metodologia de **Aprendizagem Baseada em Erros**, onde o aluno 
 
 
 <img src="modelo.png" width="700">
+
+### Plano de aula
+
+[Plano de Aula](./plano.md)
