@@ -1,0 +1,72 @@
+{
+  "lom": {
+    "general": {
+      "title": {
+        "language": "pt-BR",
+        "string": "Objeto de Aprendizagem: Usabilidade, Heurísticas de Nielsen e Acessibilidade"
+      },
+      "language": ["pt-BR"],
+      "description": {
+        "language": "pt-BR",
+        "string": "Objeto de aprendizagem digital interativo destinado ao ensino de usabilidade em interfaces, abordando as 10 heurísticas de Nielsen e sua relação com acessibilidade. O objeto é estruturado em módulos com textos explicativos, exemplos interativos e questionários avaliativos."
+      },
+      "keyword": [
+        { "language": "pt-BR", "string": "Usabilidade" },
+        { "language": "pt-BR", "string": "Heurísticas de Nielsen" },
+        { "language": "pt-BR", "string": "Acessibilidade" },
+        { "language": "pt-BR", "string": "Interação Humano-Computador" }
+      ],
+      "structure": "hierarchical",
+      "aggregationLevel": 2
+    },
+
+    "lifeCycle": {
+      "version": "1.0",
+      "status": "final",
+      "contribute": [
+        {
+          "role": "autor",
+          "entity": "João Pedro Inoe Araújo",
+          "date": "2025"
+        }
+      ]
+    },
+
+    "technical": {
+      "format": [
+        "text/html",
+        "application/json",
+        "text/css",
+        "application/javascript"
+      ],
+      "location": "Ambiente web / navegador",
+      "requirements": {
+        "browser": "Navegador moderno com suporte a JavaScript"
+      }
+    },
+
+    "educational": {
+      "learningResourceType": "objeto de aprendizagem interativo",
+      "interactivityType": "misto",
+      "interactivityLevel": "médio",
+      "semanticDensity": "média",
+      "intendedEndUserRole": "estudante",
+      "context": "ensino superior e técnico",
+      "typicalLearningTime": "2 horas",
+      "difficulty": "médio",
+      "description": {
+        "language": "pt-BR",
+        "string": "O objeto utiliza uma abordagem pedagógica ativa, combinando exposição teórica, exemplos interativos e questionários formativos, incentivando a reflexão crítica e a aprendizagem significativa."
+      }
+    },
+
+    "rights": {
+      "cost": "não",
+      "copyrightAndOtherRestrictions": "sim",
+      "description": {
+        "language": "pt-BR",
+        "string": "Uso permitido para fins educacionais, sem fins comerciais, com atribuição ao autor."
+      }
+    }
+  }
+}
